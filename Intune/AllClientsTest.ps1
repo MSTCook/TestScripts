@@ -1,10 +1,10 @@
 #requires -version 2
 <#
 .SYNOPSIS
-  Test script for MECM push
+  Test script for Intune push
 
 .DESCRIPTION
-  This script writes to a file on the client computer and is intended to be pushed through MECM to
+  This script writes to a file on the client computer and is intended to be pushed through Intune to
   test funcitonality.
 
 .PARAMETER <Parameter_Name>
